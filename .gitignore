@@ -1,0 +1,10 @@
+Builds/
+JuceLibraryCode/
+.vs/
+*.user
+*.suo
+*.ipch
+*.dll
+*.obj
+Debug/
+Release/
